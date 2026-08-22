@@ -20,5 +20,4 @@ license {
 prebuilt_font {
     name: "GoogleSansFlex-Regular.ttf",
     src: "GoogleSansFlex-Regular.ttf",
-    product_specific: true,
 }
